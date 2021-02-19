@@ -1,0 +1,149 @@
+C:\Users\user\Desktop\trabajo\CyberU\obj\Debug\CyberU.csprojAssemblyReference.cache
+C:\Users\user\Desktop\trabajo\CyberU\obj\Debug\CyberU.Administrador.Frm_ActualizarAdmin.resources
+C:\Users\user\Desktop\trabajo\CyberU\obj\Debug\CyberU.Administrador.Frm_MantenimientoAdmin.resources
+C:\Users\user\Desktop\trabajo\CyberU\obj\Debug\CyberU.Administrador.Frm_MenuPrincipal.resources
+C:\Users\user\Desktop\trabajo\CyberU\obj\Debug\CyberU.Administrador.Frm_RegistroAdmin.resources
+C:\Users\user\Desktop\trabajo\CyberU\obj\Debug\CyberU.Estudiante.Frm_ActualizarEstudiante.resources
+C:\Users\user\Desktop\trabajo\CyberU\obj\Debug\CyberU.Estudiante.Frm_IngresarCursoEstudiante.resources
+C:\Users\user\Desktop\trabajo\CyberU\obj\Debug\CyberU.Estudiante.Frm_ListaCursoEstudiante.resources
+C:\Users\user\Desktop\trabajo\CyberU\obj\Debug\CyberU.Estudiante.Frm_MenuPrincipalEstudiante.resources
+C:\Users\user\Desktop\trabajo\CyberU\obj\Debug\CyberU.LoginTipo.Frm_Admin.resources
+C:\Users\user\Desktop\trabajo\CyberU\obj\Debug\CyberU.LoginTipo.Frm_Estudiante.resources
+C:\Users\user\Desktop\trabajo\CyberU\obj\Debug\CyberU.LoginTipo.Frm_Profesor.resources
+C:\Users\user\Desktop\trabajo\CyberU\obj\Debug\CyberU.Profesor.Frm_ActualizarProfesor.resources
+C:\Users\user\Desktop\trabajo\CyberU\obj\Debug\CyberU.Profesor.Frm_Cursos.resources
+C:\Users\user\Desktop\trabajo\CyberU\obj\Debug\CyberU.Profesor.Frm_MenuPrincipalProfesor.resources
+C:\Users\user\Desktop\trabajo\CyberU\obj\Debug\CyberU.Profesor.Frm_Notas.resources
+C:\Users\user\Desktop\trabajo\CyberU\obj\Debug\CyberU.Profesor.Frm_RegistroProfesor.resources
+C:\Users\user\Desktop\trabajo\CyberU\obj\Debug\CyberU.csproj.GenerateResource.cache
+C:\Users\user\Desktop\trabajo\CyberU\bin\Debug\CyberU.exe.config
+C:\Users\user\Desktop\trabajo\CyberU\bin\Debug\CyberU.exe
+C:\Users\user\Desktop\trabajo\CyberU\bin\Debug\CyberU.pdb
+C:\Users\user\Desktop\trabajo\CyberU\obj\Debug\CyberU.exe
+C:\Users\user\Desktop\trabajo\CyberU\obj\Debug\CyberU.pdb
+C:\Users\user\Desktop\trabajo\CyberU\obj\Debug\CyberU.Administrador.Frm_RegistroEstudiante.resources
+D:\CyberU\bin\Debug\CyberU.exe.config
+D:\CyberU\bin\Debug\CyberU.exe
+D:\CyberU\bin\Debug\CyberU.pdb
+D:\CyberU\obj\Debug\CyberU.csprojAssemblyReference.cache
+D:\CyberU\obj\Debug\CyberU.Administrador.Frm_ActualizarAdmin.resources
+D:\CyberU\obj\Debug\CyberU.Administrador.Frm_MantenimientoAdmin.resources
+D:\CyberU\obj\Debug\CyberU.Administrador.Frm_MenuPrincipal.resources
+D:\CyberU\obj\Debug\CyberU.Administrador.Frm_RegistroAdmin.resources
+D:\CyberU\obj\Debug\CyberU.Administrador.Frm_RegistroEstudiante.resources
+D:\CyberU\obj\Debug\CyberU.Estudiante.Frm_ActualizarEstudiante.resources
+D:\CyberU\obj\Debug\CyberU.Estudiante.Frm_IngresarCursoEstudiante.resources
+D:\CyberU\obj\Debug\CyberU.Estudiante.Frm_ListaCursoEstudiante.resources
+D:\CyberU\obj\Debug\CyberU.Estudiante.Frm_MenuPrincipalEstudiante.resources
+D:\CyberU\obj\Debug\CyberU.LoginTipo.Frm_Admin.resources
+D:\CyberU\obj\Debug\CyberU.LoginTipo.Frm_Estudiante.resources
+D:\CyberU\obj\Debug\CyberU.LoginTipo.Frm_Profesor.resources
+D:\CyberU\obj\Debug\CyberU.Profesor.Frm_ActualizarProfesor.resources
+D:\CyberU\obj\Debug\CyberU.Profesor.Frm_Cursos.resources
+D:\CyberU\obj\Debug\CyberU.Profesor.Frm_MenuPrincipalProfesor.resources
+D:\CyberU\obj\Debug\CyberU.Profesor.Frm_Notas.resources
+D:\CyberU\obj\Debug\CyberU.csproj.GenerateResource.cache
+D:\CyberU\obj\Debug\CyberU.csproj.CoreCompileInputs.cache
+D:\CyberU\obj\Debug\CyberU.exe
+D:\CyberU\obj\Debug\CyberU.pdb
+D:\CyberU\obj\Debug\CyberU.Properties.Resources.resources
+D:\CyberU\obj\Debug\CyberU.Administrador.FrmSoporteTecnico.resources
+D:\CyberU\obj\Debug\CyberU.Administrador.Frm_RegistroProfesor.resources
+D:\CyberU\obj\Debug\CyberU.Administrador.Frm_IngresoCurso.resources
+D:\CyberU\obj\Debug\CyberU.Administrador.Frm_ListaCursos.resources
+C:\Users\ulacit\Desktop\CyberU\bin\Debug\CyberU.exe.config
+C:\Users\ulacit\Desktop\CyberU\bin\Debug\CyberU.exe
+C:\Users\ulacit\Desktop\CyberU\bin\Debug\CyberU.pdb
+C:\Users\ulacit\Desktop\CyberU\obj\Debug\CyberU.csprojResolveAssemblyReference.cache
+C:\Users\ulacit\Desktop\CyberU\obj\Debug\CyberU.Administrador.FrmSoporteTecnico.resources
+C:\Users\ulacit\Desktop\CyberU\obj\Debug\CyberU.Administrador.Frm_ActualizarAdmin.resources
+C:\Users\ulacit\Desktop\CyberU\obj\Debug\CyberU.Administrador.Frm_IngresoCurso.resources
+C:\Users\ulacit\Desktop\CyberU\obj\Debug\CyberU.Administrador.Frm_ListaCursos.resources
+C:\Users\ulacit\Desktop\CyberU\obj\Debug\CyberU.Administrador.Frm_MantenimientoAdmin.resources
+C:\Users\ulacit\Desktop\CyberU\obj\Debug\CyberU.Administrador.Frm_MenuPrincipal.resources
+C:\Users\ulacit\Desktop\CyberU\obj\Debug\CyberU.Administrador.Frm_RegistroAdmin.resources
+C:\Users\ulacit\Desktop\CyberU\obj\Debug\CyberU.Administrador.Frm_RegistroEstudiante.resources
+C:\Users\ulacit\Desktop\CyberU\obj\Debug\CyberU.Administrador.Frm_RegistroProfesor.resources
+C:\Users\ulacit\Desktop\CyberU\obj\Debug\CyberU.Estudiante.Frm_ActualizarEstudiante.resources
+C:\Users\ulacit\Desktop\CyberU\obj\Debug\CyberU.Estudiante.Frm_IngresarCursoEstudiante.resources
+C:\Users\ulacit\Desktop\CyberU\obj\Debug\CyberU.Estudiante.Frm_ListaCursoEstudiante.resources
+C:\Users\ulacit\Desktop\CyberU\obj\Debug\CyberU.Estudiante.Frm_MenuPrincipalEstudiante.resources
+C:\Users\ulacit\Desktop\CyberU\obj\Debug\CyberU.LoginTipo.Frm_Admin.resources
+C:\Users\ulacit\Desktop\CyberU\obj\Debug\CyberU.LoginTipo.Frm_Estudiante.resources
+C:\Users\ulacit\Desktop\CyberU\obj\Debug\CyberU.LoginTipo.Frm_Profesor.resources
+C:\Users\ulacit\Desktop\CyberU\obj\Debug\CyberU.Profesor.Frm_ActualizarProfesor.resources
+C:\Users\ulacit\Desktop\CyberU\obj\Debug\CyberU.Profesor.Frm_Cursos.resources
+C:\Users\ulacit\Desktop\CyberU\obj\Debug\CyberU.Profesor.Frm_MenuPrincipalProfesor.resources
+C:\Users\ulacit\Desktop\CyberU\obj\Debug\CyberU.Profesor.Frm_Notas.resources
+C:\Users\ulacit\Desktop\CyberU\obj\Debug\CyberU.Properties.Resources.resources
+C:\Users\ulacit\Desktop\CyberU\obj\Debug\CyberU.csproj.GenerateResource.Cache
+C:\Users\ulacit\Desktop\CyberU\obj\Debug\CyberU.csproj.CoreCompileInputs.cache
+C:\Users\ulacit\Desktop\CyberU\obj\Debug\CyberU.exe
+C:\Users\ulacit\Desktop\CyberU\obj\Debug\CyberU.pdb
+C:\Users\user\Desktop\CyberU2.0\CyberU\bin\Debug\CyberU.exe.config
+C:\Users\user\Desktop\CyberU2.0\CyberU\bin\Debug\CyberU.exe
+C:\Users\user\Desktop\CyberU2.0\CyberU\bin\Debug\CyberU.pdb
+C:\Users\user\Desktop\CyberU2.0\CyberU\obj\Debug\CyberU.csprojAssemblyReference.cache
+C:\Users\user\Desktop\CyberU2.0\CyberU\obj\Debug\CyberU.Administrador.FrmSoporteTecnico.resources
+C:\Users\user\Desktop\CyberU2.0\CyberU\obj\Debug\CyberU.Administrador.Frm_ListaCursos.resources
+C:\Users\user\Desktop\CyberU2.0\CyberU\obj\Debug\CyberU.Administrador.Frm_MantenimientoAdmin.resources
+C:\Users\user\Desktop\CyberU2.0\CyberU\obj\Debug\CyberU.Administrador.Frm_MenuPrincipal.resources
+C:\Users\user\Desktop\CyberU2.0\CyberU\obj\Debug\CyberU.Administrador.Frm_RegistroEstudiante.resources
+C:\Users\user\Desktop\CyberU2.0\CyberU\obj\Debug\CyberU.Administrador.Frm_RegistroProfesor.resources
+C:\Users\user\Desktop\CyberU2.0\CyberU\obj\Debug\CyberU.Estudiante.Frm_ActualizarEstudiante.resources
+C:\Users\user\Desktop\CyberU2.0\CyberU\obj\Debug\CyberU.Estudiante.Frm_IngresarCursoEstudiante.resources
+C:\Users\user\Desktop\CyberU2.0\CyberU\obj\Debug\CyberU.Estudiante.Frm_ListaCursoEstudiante.resources
+C:\Users\user\Desktop\CyberU2.0\CyberU\obj\Debug\CyberU.Estudiante.Frm_MenuPrincipalEstudiante.resources
+C:\Users\user\Desktop\CyberU2.0\CyberU\obj\Debug\CyberU.LoginTipo.Frm_Admin.resources
+C:\Users\user\Desktop\CyberU2.0\CyberU\obj\Debug\CyberU.LoginTipo.Frm_Estudiante.resources
+C:\Users\user\Desktop\CyberU2.0\CyberU\obj\Debug\CyberU.LoginTipo.Frm_Profesor.resources
+C:\Users\user\Desktop\CyberU2.0\CyberU\obj\Debug\CyberU.Profesor.Frm_ActualizarProfesor.resources
+C:\Users\user\Desktop\CyberU2.0\CyberU\obj\Debug\CyberU.Profesor.Frm_Cursos.resources
+C:\Users\user\Desktop\CyberU2.0\CyberU\obj\Debug\CyberU.Profesor.Frm_MenuPrincipalProfesor.resources
+C:\Users\user\Desktop\CyberU2.0\CyberU\obj\Debug\CyberU.Profesor.Frm_Notas.resources
+C:\Users\user\Desktop\CyberU2.0\CyberU\obj\Debug\CyberU.Properties.Resources.resources
+C:\Users\user\Desktop\CyberU2.0\CyberU\obj\Debug\CyberU.csproj.GenerateResource.cache
+C:\Users\user\Desktop\CyberU2.0\CyberU\obj\Debug\CyberU.exe
+C:\Users\user\Desktop\CyberU2.0\CyberU\obj\Debug\CyberU.pdb
+C:\Users\user\Desktop\CyberU2.0\CyberU\obj\Debug\CyberU.Administrador.Frm_GestionarCurso.resources
+C:\Users\user\Desktop\CyberU2.0\CyberU\obj\Debug\CyberU.Administrador.Horarios.resources
+C:\Users\user\Desktop\CyberU2.0\CyberU\obj\Debug\CyberU.Administrador.Frm_GestionarAdmin.resources
+C:\Users\user\Desktop\CyberU2.0\CyberU\obj\Debug\CyberU.Administrador.IngresarCursosEstudiante.resources
+D:\Users\Josue Hernandez\Downloads\CyberU3.5\CyberU2.0\CyberU\obj\Debug\CyberU.csprojAssemblyReference.cache
+D:\Users\Josue Hernandez\Downloads\CyberU3.5\CyberU2.0\CyberU\obj\Debug\CyberU.Administrador.FrmSoporteTecnico.resources
+D:\Users\Josue Hernandez\Downloads\CyberU3.5\CyberU2.0\CyberU\obj\Debug\CyberU.Administrador.Frm_GestionarAdmin.resources
+D:\Users\Josue Hernandez\Downloads\CyberU3.5\CyberU2.0\CyberU\obj\Debug\CyberU.Administrador.Frm_GestionarCurso.resources
+D:\Users\Josue Hernandez\Downloads\CyberU3.5\CyberU2.0\CyberU\obj\Debug\CyberU.Administrador.Frm_ListaCursos.resources
+D:\Users\Josue Hernandez\Downloads\CyberU3.5\CyberU2.0\CyberU\obj\Debug\CyberU.Administrador.Frm_MantenimientoAdmin.resources
+D:\Users\Josue Hernandez\Downloads\CyberU3.5\CyberU2.0\CyberU\obj\Debug\CyberU.Administrador.Frm_MenuPrincipal.resources
+D:\Users\Josue Hernandez\Downloads\CyberU3.5\CyberU2.0\CyberU\obj\Debug\CyberU.Administrador.Frm_RegistroEstudiante.resources
+D:\Users\Josue Hernandez\Downloads\CyberU3.5\CyberU2.0\CyberU\obj\Debug\CyberU.Administrador.Frm_RegistroProfesor.resources
+D:\Users\Josue Hernandez\Downloads\CyberU3.5\CyberU2.0\CyberU\obj\Debug\CyberU.Administrador.Horarios.resources
+D:\Users\Josue Hernandez\Downloads\CyberU3.5\CyberU2.0\CyberU\obj\Debug\CyberU.Administrador.IngresarCursosEstudiante.resources
+D:\Users\Josue Hernandez\Downloads\CyberU3.5\CyberU2.0\CyberU\obj\Debug\CyberU.LoginTipo.Frm_Admin.resources
+D:\Users\Josue Hernandez\Downloads\CyberU3.5\CyberU2.0\CyberU\obj\Debug\CyberU.Properties.Resources.resources
+D:\Users\Josue Hernandez\Downloads\CyberU3.5\CyberU2.0\CyberU\obj\Debug\CyberU.csproj.GenerateResource.cache
+D:\Users\Josue Hernandez\Downloads\CyberU3.5\CyberU2.0\CyberU\obj\Debug\CyberU.exe
+D:\Users\Josue Hernandez\Downloads\CyberU3.5\CyberU2.0\CyberU\obj\Debug\CyberU.pdb
+D:\Users\Josue Hernandez\Downloads\CyberU3.5\CyberU2.0\CyberU\bin\Debug\CyberU.exe.config
+D:\Users\Josue Hernandez\Downloads\CyberU3.5\CyberU2.0\CyberU\bin\Debug\CyberU.exe
+D:\Users\Josue Hernandez\Downloads\CyberU3.5\CyberU2.0\CyberU\bin\Debug\CyberU.pdb
+D:\Users\Josue Hernandez\Desktop\CyberU3.5\CyberU2.0\CyberU\bin\Debug\CyberU.exe.config
+D:\Users\Josue Hernandez\Desktop\CyberU3.5\CyberU2.0\CyberU\bin\Debug\CyberU.exe
+D:\Users\Josue Hernandez\Desktop\CyberU3.5\CyberU2.0\CyberU\bin\Debug\CyberU.pdb
+D:\Users\Josue Hernandez\Desktop\CyberU3.5\CyberU2.0\CyberU\obj\Debug\CyberU.csprojAssemblyReference.cache
+D:\Users\Josue Hernandez\Desktop\CyberU3.5\CyberU2.0\CyberU\obj\Debug\CyberU.Administrador.FrmSoporteTecnico.resources
+D:\Users\Josue Hernandez\Desktop\CyberU3.5\CyberU2.0\CyberU\obj\Debug\CyberU.Administrador.Frm_GestionarAdmin.resources
+D:\Users\Josue Hernandez\Desktop\CyberU3.5\CyberU2.0\CyberU\obj\Debug\CyberU.Administrador.Frm_GestionarCurso.resources
+D:\Users\Josue Hernandez\Desktop\CyberU3.5\CyberU2.0\CyberU\obj\Debug\CyberU.Administrador.Frm_ListaCursos.resources
+D:\Users\Josue Hernandez\Desktop\CyberU3.5\CyberU2.0\CyberU\obj\Debug\CyberU.Administrador.Frm_MantenimientoAdmin.resources
+D:\Users\Josue Hernandez\Desktop\CyberU3.5\CyberU2.0\CyberU\obj\Debug\CyberU.Administrador.Frm_MenuPrincipal.resources
+D:\Users\Josue Hernandez\Desktop\CyberU3.5\CyberU2.0\CyberU\obj\Debug\CyberU.Administrador.Frm_RegistroEstudiante.resources
+D:\Users\Josue Hernandez\Desktop\CyberU3.5\CyberU2.0\CyberU\obj\Debug\CyberU.Administrador.Frm_RegistroProfesor.resources
+D:\Users\Josue Hernandez\Desktop\CyberU3.5\CyberU2.0\CyberU\obj\Debug\CyberU.Administrador.Horarios.resources
+D:\Users\Josue Hernandez\Desktop\CyberU3.5\CyberU2.0\CyberU\obj\Debug\CyberU.Administrador.IngresarCursosEstudiante.resources
+D:\Users\Josue Hernandez\Desktop\CyberU3.5\CyberU2.0\CyberU\obj\Debug\CyberU.LoginTipo.Frm_Admin.resources
+D:\Users\Josue Hernandez\Desktop\CyberU3.5\CyberU2.0\CyberU\obj\Debug\CyberU.Properties.Resources.resources
+D:\Users\Josue Hernandez\Desktop\CyberU3.5\CyberU2.0\CyberU\obj\Debug\CyberU.csproj.GenerateResource.cache
+D:\Users\Josue Hernandez\Desktop\CyberU3.5\CyberU2.0\CyberU\obj\Debug\CyberU.exe
+D:\Users\Josue Hernandez\Desktop\CyberU3.5\CyberU2.0\CyberU\obj\Debug\CyberU.pdb

@@ -1,0 +1,249 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{5A644591-F7FC-4E3E-B0C8-02988C168069}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>CyberU</RootNamespace>
+    <AssemblyName>CyberU</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>CyberU.Program</StartupObject>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Administrador\FrmSoporteTecnico.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Administrador\FrmSoporteTecnico.Designer.cs">
+      <DependentUpon>FrmSoporteTecnico.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Administrador\Frm_GestionarAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Administrador\Frm_GestionarAdmin.Designer.cs">
+      <DependentUpon>Frm_GestionarAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Administrador\Frm_GestionarCurso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Administrador\Frm_GestionarCurso.Designer.cs">
+      <DependentUpon>Frm_GestionarCurso.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Administrador\Frm_ListaCursos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Administrador\Frm_ListaCursos.Designer.cs">
+      <DependentUpon>Frm_ListaCursos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Administrador\Frm_MantenimientoAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Administrador\Frm_MantenimientoAdmin.Designer.cs">
+      <DependentUpon>Frm_MantenimientoAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Administrador\Frm_MenuPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Administrador\Frm_MenuPrincipal.Designer.cs">
+      <DependentUpon>Frm_MenuPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Administrador\Frm_RegistroEstudiante.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Administrador\Frm_RegistroEstudiante.Designer.cs">
+      <DependentUpon>Frm_RegistroEstudiante.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Administrador\Frm_RegistroProfesor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Administrador\Frm_RegistroProfesor.Designer.cs">
+      <DependentUpon>Frm_RegistroProfesor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Administrador\Horarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Administrador\Horarios.Designer.cs">
+      <DependentUpon>Horarios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Administrador\IngresarCursosEstudiante.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Administrador\IngresarCursosEstudiante.Designer.cs">
+      <DependentUpon>IngresarCursosEstudiante.cs</DependentUpon>
+    </Compile>
+    <Compile Include="matricula3DataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>matricula3DataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="matricula3DataSetCursos.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>matricula3DataSetCursos.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="matricula3DataSetEstudiantesCursos.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>matricula3DataSetEstudiantesCursos.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="matricula3DataSetHorarios.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>matricula3DataSetHorarios.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="OnlyCodes\Cursos\Curso.cs" />
+    <Compile Include="LoginTipo\Frm_Admin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginTipo\Frm_Admin.Designer.cs">
+      <DependentUpon>Frm_Admin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OnlyCodes\Cursos\CarritoCursos.cs" />
+    <Compile Include="OnlyCodes\GestionamientoCursos.cs" />
+    <Compile Include="OnlyCodes\GestionamientoMatricula.cs" />
+    <Compile Include="OnlyCodes\ValidacionDatos.cs" />
+    <Compile Include="OnlyCodes\GestionamientoUsuarios.cs" />
+    <Compile Include="OnlyCodes\Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="matricula3DataSet.xsc">
+      <DependentUpon>matricula3DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="matricula3DataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>matricula3DataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="matricula3DataSet.xss">
+      <DependentUpon>matricula3DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="matricula3DataSetCursos.xsc">
+      <DependentUpon>matricula3DataSetCursos.xsd</DependentUpon>
+    </None>
+    <None Include="matricula3DataSetCursos.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>matricula3DataSetCursos.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="matricula3DataSetCursos.xss">
+      <DependentUpon>matricula3DataSetCursos.xsd</DependentUpon>
+    </None>
+    <None Include="matricula3DataSetEstudiantesCursos.xsc">
+      <DependentUpon>matricula3DataSetEstudiantesCursos.xsd</DependentUpon>
+    </None>
+    <None Include="matricula3DataSetEstudiantesCursos.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>matricula3DataSetEstudiantesCursos.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="matricula3DataSetEstudiantesCursos.xss">
+      <DependentUpon>matricula3DataSetEstudiantesCursos.xsd</DependentUpon>
+    </None>
+    <None Include="matricula3DataSetHorarios.xsc">
+      <DependentUpon>matricula3DataSetHorarios.xsd</DependentUpon>
+    </None>
+    <None Include="matricula3DataSetHorarios.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>matricula3DataSetHorarios.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="matricula3DataSetHorarios.xss">
+      <DependentUpon>matricula3DataSetHorarios.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <EmbeddedResource Include="Administrador\FrmSoporteTecnico.resx">
+      <DependentUpon>FrmSoporteTecnico.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Administrador\Frm_GestionarAdmin.resx">
+      <DependentUpon>Frm_GestionarAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Administrador\Frm_GestionarCurso.resx">
+      <DependentUpon>Frm_GestionarCurso.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Administrador\Frm_ListaCursos.resx">
+      <DependentUpon>Frm_ListaCursos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Administrador\Frm_MantenimientoAdmin.resx">
+      <DependentUpon>Frm_MantenimientoAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Administrador\Frm_MenuPrincipal.resx">
+      <DependentUpon>Frm_MenuPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Administrador\Frm_RegistroEstudiante.resx">
+      <DependentUpon>Frm_RegistroEstudiante.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Administrador\Frm_RegistroProfesor.resx">
+      <DependentUpon>Frm_RegistroProfesor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Administrador\Horarios.resx">
+      <DependentUpon>Horarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Administrador\IngresarCursosEstudiante.resx">
+      <DependentUpon>IngresarCursosEstudiante.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginTipo\Frm_Admin.resx">
+      <DependentUpon>Frm_Admin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
